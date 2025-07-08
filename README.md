@@ -125,7 +125,7 @@ Este repositório reúne os projetos, exercícios e anotações desenvolvidos ao
 
 **Bruno dos Santos Souza**  
 📍 São José dos Campos, SP  
-🔗 [LinkedIn]([https://www.linkedin.com/in/bruno-dos-santos-souza/](https://www.linkedin.com/in/brunoss97))  
+🔗 [LinkedIn](https://www.linkedin.com/in/brunoss97) 
 🎓 QA | Testes manuais, automação (Python), mobile e API
 
 ---
