@@ -1,6 +1,3 @@
----
-
-### 📁 `projeto-teste-api/README.md`
 
 ```markdown
 
