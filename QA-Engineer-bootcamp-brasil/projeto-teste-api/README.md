@@ -1,4 +1,4 @@
-#🔌 Testes de API com Postman
+###🔌 Testes de API com Postman
 
 Projeto com foco em testes de API, utilizando o Postman e a documentação Swagger/ApiDoc. Desenvolvido na Sprint 4 do Bootcamp de QA.
 
