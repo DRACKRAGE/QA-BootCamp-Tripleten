@@ -4,6 +4,7 @@ Este repositório reúne os projetos, exercícios e anotações desenvolvidos ao
 ## 🔎 Principais conteudos
 - QA-Engineer-bootcamp-brasil/projeto-testes-manual.
 - QA-Engineer-bootcamp-brasil/projeto-teste-api.
+- QA-Engineer-bootcamp-brasil/projeto-teste-sql-bd.
 
 ---
 
