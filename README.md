@@ -1,10 +1,9 @@
 # 📘 QA Bootcamp - Tripleten
 
 Este repositório reúne os projetos, exercícios e anotações desenvolvidos ao longo do **Bootcamp de Qualidade de Software (QA)** da [Tripleten]. O curso abrange desde os fundamentos do teste até práticas avançadas como automação, testes mobile, API e banco de dados — sempre conectando teoria com prática real.
-## Principais conteudos
+## 🔎 Principais conteudos
 - QA-Engineer-bootcamp-brasil/projeto-testes-manual.
 - QA-Engineer-bootcamp-brasil/projeto-teste-api.
-- 
 
 ---
 
